@@ -1,0 +1,29 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #1F2937;
+    padding: 0 20%;
+    margin: 0;
+    color: #F9FaF8;
+}
+
+body{
+    /* padding: 0 20%; */
+    font-family: Roboto;
+    margin: 0;
+}
+
+.header-a{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+   
+}
+
+a{
+    text-decoration: none;
+    color: #F9FaF8;
+}
