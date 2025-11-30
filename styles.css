@@ -107,9 +107,52 @@ button{
     align-self: flex-end;
 }
 
+.bottom-body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bottom-box{
+    border: 5px;
+    border-radius: 10px;
+    background-color: #3882F6;
+    border-color: #3882F6;
+    margin: 64px;
+    padding: 16px 32px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 16px;
+    align-items: center;
+}
+
+
 .footer{
     display: flex;
     justify-content: center;
     padding: 16px;
     background-color: #1F2937;
+    color: #E5E7EB;
+}
+
+h3{
+    color: #F9FaF8;
+}
+
+.bottom-p{
+    color: #F9FaF8;
+}
+
+.bottom-button{
+    border-radius: 10px;
+    border-color: #F9FaF8;
+    border-width: 1px;
+    border-style: solid;
+    padding: 8px 16px;
+}
+
+.upper-image{
+    background-color: #E5E7EB;
+    flex-grow: 1;
 }
