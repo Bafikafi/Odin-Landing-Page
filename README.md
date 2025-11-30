@@ -6,3 +6,8 @@ TODO:
 - Readme
 - Other stuff :P
 
+
+Image Sources:
+Johannes Plenio - spruce forest in header
+Roman Biernacki - european beech forest 
+

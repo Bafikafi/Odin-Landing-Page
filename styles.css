@@ -22,7 +22,7 @@ body{
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    gap: 8px;
+    gap: 16px;
    
 }
 
@@ -59,6 +59,7 @@ button{
     padding: 8px;
     color: #F9FaF8;
     font-weight: bold;
+    font-size: small;
 }
 
 .info{
@@ -110,6 +111,7 @@ button{
 
 .author{
     align-self: flex-end;
+    font-style: italic;
 }
 
 .bottom-body{
@@ -161,5 +163,6 @@ h3{
     background-color: #E5E7EB;
     flex-grow: 1;
     width: 500px;
-    height: 300px;
+    border-radius: 24px;
+    border-color: #1F2937;
 }
